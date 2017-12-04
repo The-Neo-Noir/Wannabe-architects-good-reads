@@ -11,6 +11,9 @@ Clean Code: A Handbook of Agile Software Craftsmanship (Robert C Martin a.k.a Un
 Refactoring: Improving the Design of Existing Code (Martin Fowler)
 
 # System Design 
+## Restful design
 REST in Practice: Hypermedia and Systems Architecture
+
+https://www.infoq.com/minibooks/emag-03-2010-rest#minibookDownload
 
 Domain-Driven Design: Tackling Complexity in the Heart of Software
