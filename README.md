@@ -7,3 +7,8 @@ Effective Java [2nd Edition] (Joshua Bloch)
 Test Driven Development (TDD) By Example (Kent Beck)
 
 Clean Code: A Handbook of Agile Software Craftsmanship (Robert C Martin a.k.a Uncle Bob)
+Refactoring: Improving the Design of Existing Code (Martin Fowler)
+
+# System Design 
+REST in Practice: Hypermedia and Systems Architecture
+Domain-Driven Design: Tackling Complexity in the Heart of Software
