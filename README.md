@@ -10,6 +10,10 @@ Clean Code: A Handbook of Agile Software Craftsmanship (Robert C Martin a.k.a Un
 
 Refactoring: Improving the Design of Existing Code (Martin Fowler)
 
+An amazing video tutorial covers a great depth on refactoring that includes the books like Martin Fowler's refactoring book,clean code ,efactoring to Patterns (Addison Wesley Signature Series) etc is pluralsights' 
+https://www.pluralsight.com/courses/refactoring-fundamentals
+
+
 # System Design 
 ## Restful design
 REST in Practice: Hypermedia and Systems Architecture
