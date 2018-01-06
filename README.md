@@ -3,6 +3,7 @@ The following books are good reads for all them folks who wants a career on soft
 
 # Do good in coding 
 Effective Java [2nd Edition] (Joshua Bloch)
+  A Good summery can is avaiable at https://github.com/HugoMatilla/Effective-JAVA-Summary
 
 Test Driven Development (TDD) By Example (Kent Beck)
 
