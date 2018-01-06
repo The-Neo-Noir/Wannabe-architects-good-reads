@@ -21,3 +21,5 @@ REST in Practice: Hypermedia and Systems Architecture
 https://www.infoq.com/minibooks/emag-03-2010-rest#minibookDownload
 
 Domain-Driven Design: Tackling Complexity in the Heart of Software
+
+Building Microservices: Designing Fine-Grained Systems
