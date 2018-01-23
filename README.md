@@ -26,3 +26,7 @@ https://www.infoq.com/minibooks/emag-03-2010-rest#minibookDownload
 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
 Building Microservices: Designing Fine-Grained Systems
+
+
+
+https://www.dynatrace.com/blog/the-era-of-servlet-containers-is-over/
