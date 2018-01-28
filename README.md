@@ -23,10 +23,19 @@ REST in Practice: Hypermedia and Systems Architecture
 
 https://www.infoq.com/minibooks/emag-03-2010-rest#minibookDownload
 
+## Distributed and complex system designs
+
 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
 Building Microservices: Designing Fine-Grained Systems
 
+Enterprise Integration Patterns: Designing, Building, and Deploying Messaging 
 
 
+## j2EE Design patterns
+
+Core J2EE Patterns: Best Practices and Design Strategies, 2e Paperback
+
+
+#Other good reads
 https://www.dynatrace.com/blog/the-era-of-servlet-containers-is-over/
