@@ -25,6 +25,8 @@ https://www.infoq.com/minibooks/emag-03-2010-rest#minibookDownload
 
 ## Distributed and complex system designs
 
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems  (English, Paperback, Martin Kleppmann)
+
 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
 Building Microservices: Designing Fine-Grained Systems
